@@ -1,7 +1,8 @@
 team : Tigers
 
-manager : jslim
-
+manager :
+- jslim 
+- encore 
 members : 
 - a
 - b
