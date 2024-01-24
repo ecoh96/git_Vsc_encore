@@ -1,6 +1,6 @@
 team : Pantgers
 
-manager : encore02
+manager : cat
 
 members : 
 - c
@@ -9,4 +9,8 @@ members :
 - t
 - encore
 
+<<<<<<< HEAD
 coach : encore 
+=======
+coach : encore02
+>>>>>>> 7ead807 (Replace coach to pantgers)
